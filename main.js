@@ -1,4 +1,4 @@
-var serverurl = "http://sharetikbackend.ddns.net:5000/sharetik
+var serverurl = "http://sharetikbackend.ddns.net:5000/sharetik"
 function copyfunc() {
     // Get the text field
     var copyText = document.getElementById("outputfield");
